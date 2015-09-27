@@ -72,7 +72,7 @@ Should the emergency contact want an instant update of their loved one's heart r
 <br>
 The emergency contact can have the option of being notified if the patient's heart rate is 'Elevated' for such chronic heart conditions such as Marfan's Syndrome.
 
-
+---
 
 <br>
 **References.**  
