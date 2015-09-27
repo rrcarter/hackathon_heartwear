@@ -1,13 +1,11 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Why HeartWear
+  url: /why_hw/
 
-- title: Sample Posts
-  url: /posts/
+- title: How it Works
+  url: /hw_works/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Meet the Team
+  url: /team_bios/
 
-- title: Made Mistakes
-  url: http://mademistakes.com

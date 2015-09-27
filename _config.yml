@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            HeartWear
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: HeartWear 
+  avatar: heartwearlogo_small.png
+  bio: "A heart rate monitoring app that lets family members monitor an elder's heart rate and get real time statuses and notifications in case of emergencies."  
   email:
   disqus-shortname:
   twitter: #username
