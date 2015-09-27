@@ -20,7 +20,11 @@ A single tachycardic event may reduce a patient's quality of life, functional st
 ## Never Miss A Beat.
 Harnessing the power of widely availible and fitness trackers, HeartWear connects you to your loved one's heartbeat.  
 <br>
-With this technology the wearer's heartrate will be monitored around the clock.  Using Google Cloud Messaging and NFC, we can alert you, as your loved one's designated emergency contact, that their heart rate has reached a dangeous level indicative of a tachycardiac event. 
+With this technology the wearer's heartrate will be monitored around the clock.  Using Google Cloud Messaging and NFC, we can alert you, as your loved one's designated emergency contact, that their heart rate has reached a dangeous level indicative of a tachycardiac event.  
+
+<br>
+**Github Project Link**  
+[Heart Wear](https://github.com/nlinscott/heartwear) 
 
 <br>
 **References.**  

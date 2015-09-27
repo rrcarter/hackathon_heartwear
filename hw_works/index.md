@@ -29,8 +29,11 @@ With Google Cloud Messaging and Socket.io, the user variables of interest from t
 
 In the clinical literature, there are few predictors of a tachycardiac event other than age and gender.  However, variability in the patient's heart rate pattern in a 15 to 30 minute period prior to a emergency tachycardiac event has been identified in clinical trials.  
 <br>
-Therefore, to train a statistical clinical heart rate classifer, we exported Apple Health heart rate and activity data plotted heart rate vs activity graph in order to predict said variability in the patient's heart rate pattern with a  one class support vector machine with Python's [Sci-Kit Learn](http://scikit-learn.org/stable/). 
-<br>
+Therefore, to train a statistical clinical heart rate classifer, we exported Apple Health heart rate and activity data plotted heart rate vs activity graph in order to predict said variability in the patient's heart rate pattern with a  one class support vector machine with Python's [Sci-Kit Learn](http://scikit-learn.org/stable/).  
+
+<figure>
+	<img src="/images/svm.png">
+</figure>
 
 ---
 
