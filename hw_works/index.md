@@ -32,7 +32,7 @@ With Google Cloud Messaging, the user variables of interest from the JSON querie
 
 ---
 
-## Continuous Monitoring, Instant Updates, and Notifications
+## Continuous Monitoring Care, Instant Updates, and Notifications
 
 
 
