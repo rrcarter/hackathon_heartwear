@@ -15,7 +15,7 @@ Heart failure (HF) affects almost 5 million patients in the United States and is
 <br>
 Rapid and irregular heartrate - otherwise known as tachycardia, like HF, affects millions of patients and markedly increases in prevalence with age.  
 <br>
-A single event of tachycardia may reduce quality of life, functional status, and cardiac performance.  As the US population ages, the number of patients afflicted with tachycardia and heart failure will continue to grow.
+A single tachycardic event may reduce a patient's quality of life, functional status, and may cause permant damange to the muscles of the heart.  As the US population ages, the number of patients afflicted with tachycardia and heart failure will continue to grow.
 
 ## Never Miss A Beat.
 Harnessing the power of widely availible and fitness trackers, HeartWear connects you to your loved one's heartbeat.  
